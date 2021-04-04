@@ -14,42 +14,42 @@ Make sure it looks like this picture below.
 
 * Alchemical Hydra
 * AOE Warnings
-Better Equipment Inspector
-Blackjack
-Castle Wars Extended
-Clanman Mode
-CoX Helper
-Dagannoth Kings
-Demonic Gorillas
-Drop Party
-Dynamic Max Hit
-Effect Timers
-Entity Hider Extended
-Enviroment Aid
-Fight Cave
-Fight Cave Spawn Rotation
-Gauntlet
-Godbook
-Grotesque Guardians
-Hallowed Sepulchre
-Hide Prayers
-Hide Under
-Hotkey to Walk
-Hydra
-Inferno
-Kalphite Queen
-Lizardmen Shaman
-Loot Assist
-Menu Entry Swapper Extended
-Never Logout
-Nightmare
-NPC Status
-Player Attack Timer
-Player Scouter
-Pray Against Player
-PVP Tools
-Reorder Prayers
-Runedoku
-Smithink
+* Better Equipment Inspector
+* Blackjack
+* Castle Wars Extended
+* Clanman Mode
+* CoX Helper
+* Dagannoth Kings
+* Demonic Gorillas
+* Drop Party
+* Dynamic Max Hit
+* Effect Timers
+* Entity Hider Extended
+* Enviroment Aid
+* Fight Cave
+* Fight Cave Spawn Rotation
+* Gauntlet
+* Godbook
+* Grotesque Guardians
+* Hallowed Sepulchre
+* Hide Prayers
+* Hide Under
+* Hotkey to Walk
+* Hydra
+* Inferno
+* Kalphite Queen
+* Lizardmen Shaman
+* Loot Assist
+* Menu Entry Swapper Extended
+* Never Logout
+* Nightmare
+* NPC Status
+* Player Attack Timer
+* Player Scouter
+* Pray Against Player
+* PVP Tools
+* Reorder Prayers
+* Runedoku
+* Smithing
 
-AND MUCH MORE!
+*...AND MUCH MORE!
