@@ -10,11 +10,10 @@ Make sure it looks like this picture below.
 ![](https://cdn.discordapp.com/attachments/828143715364372520/828144975388737536/expluginsplus.png)
 
 # Plugins List:
+[[INCLUDES ZULRAH ROTATION PLUGIN (Shows where to stand & what to pray)]]
 
-# [[INCLUDES ZULRAH ROTATION PLUGIN (Shows where to stand & what to pray)]]
-
-Alchemical Hydra
-AOE Warnings
+* Alchemical Hydra
+* AOE Warnings
 Better Equipment Inspector
 Blackjack
 Castle Wars Extended
