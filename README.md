@@ -7,7 +7,7 @@ External plugins for use with OpenOSRS, this is a seperate entity, not OpenOSRS.
 Add this repo to your external plugins manager by clicking the top right + button.
 Make sure it looks like this picture below.
 
-![](https://cdn.discordapp.com/attachments/828143715364372520/828144975388737536/expluginsplus.png)
+![](https://cdn.discordapp.com/attachments/828143715364372520/828144995923263488/expluginsplus.png)
 
 # Plugins List:
 [[INCLUDES ZULRAH ROTATION PLUGIN (Shows where to stand & what to pray)]]
